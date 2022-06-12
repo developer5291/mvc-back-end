@@ -1,0 +1,11 @@
+[
+    {
+        "id" : 1,
+        "title" : "welcomeee !",
+        "keywords" : "news,computer",
+        "description" : "this is my website",
+        "author" : "Elyas Salar",
+        "logo" : "images/logo.jpg",
+        "footer" : "copyright nakonid"
+    }
+]
